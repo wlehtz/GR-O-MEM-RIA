@@ -233,6 +233,11 @@ blockquote{
   font-family:'Unbounded', sans-serif; font-weight:900; font-size:0.85rem; color:var(--lime);
   transform:rotate(-4deg); line-height:1.2; padding:6px;
 }
+.publi-card .stamp img{
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
 .publi-card .info{ flex:1; min-width:220px; }
 .publi-card .info h3{ color:var(--paper); font-size:1.5rem; margin-bottom:10px; }
 .publi-card .info p{ color:var(--chrome); font-size:0.98rem; margin-bottom:0.8em; max-width:56ch; }
