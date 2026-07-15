@@ -236,7 +236,7 @@ blockquote{
   list-style:none; margin-top:16px; font-family:'Space Mono', monospace;
   font-size:12.5px; color:var(--lime); display:flex; flex-direction:column; gap:6px;
 }
-.publi-meta li strong{ color:var(--paper); }
+.publi-meta li strong{ color: #4f5317(--paper); }
 .publi-cta{
   display:inline-block; margin-top:20px; background:var(--lime); color:var(--negative);
   font-family:'Space Mono', monospace; font-size:12px; font-weight:700; letter-spacing:0.08em;
